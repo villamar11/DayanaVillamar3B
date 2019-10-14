@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\bin\Debug\netcoreapp3.0\tablademultiplicar.exe
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\bin\Debug\netcoreapp3.0\tablademultiplicar.deps.json
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\bin\Debug\netcoreapp3.0\tablademultiplicar.runtimeconfig.json
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\bin\Debug\netcoreapp3.0\tablademultiplicar.runtimeconfig.dev.json
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\bin\Debug\netcoreapp3.0\tablademultiplicar.dll
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\bin\Debug\netcoreapp3.0\tablademultiplicar.pdb
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\obj\Debug\netcoreapp3.0\tablademultiplicar.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\obj\Debug\netcoreapp3.0\tablademultiplicar.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\obj\Debug\netcoreapp3.0\tablademultiplicar.AssemblyInfo.cs
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\obj\Debug\netcoreapp3.0\tablademultiplicar.dll
+C:\Users\user\source\repos\tablademultiplicar\tablademultiplicar\obj\Debug\netcoreapp3.0\tablademultiplicar.pdb

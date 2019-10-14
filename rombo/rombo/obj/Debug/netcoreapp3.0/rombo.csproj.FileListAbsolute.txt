@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\rombo\rombo\bin\Debug\netcoreapp3.0\rombo.exe
+C:\Users\user\source\repos\rombo\rombo\bin\Debug\netcoreapp3.0\rombo.deps.json
+C:\Users\user\source\repos\rombo\rombo\bin\Debug\netcoreapp3.0\rombo.runtimeconfig.json
+C:\Users\user\source\repos\rombo\rombo\bin\Debug\netcoreapp3.0\rombo.runtimeconfig.dev.json
+C:\Users\user\source\repos\rombo\rombo\bin\Debug\netcoreapp3.0\rombo.dll
+C:\Users\user\source\repos\rombo\rombo\bin\Debug\netcoreapp3.0\rombo.pdb
+C:\Users\user\source\repos\rombo\rombo\obj\Debug\netcoreapp3.0\rombo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\rombo\rombo\obj\Debug\netcoreapp3.0\rombo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\rombo\rombo\obj\Debug\netcoreapp3.0\rombo.AssemblyInfo.cs
+C:\Users\user\source\repos\rombo\rombo\obj\Debug\netcoreapp3.0\rombo.dll
+C:\Users\user\source\repos\rombo\rombo\obj\Debug\netcoreapp3.0\rombo.pdb
