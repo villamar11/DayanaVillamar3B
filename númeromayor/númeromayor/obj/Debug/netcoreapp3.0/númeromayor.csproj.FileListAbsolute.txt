@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\númeromayor\númeromayor\obj\Debug\netcoreapp3.0\númeromayor.csprojAssemblyReference.cache
+C:\Users\user\source\repos\númeromayor\númeromayor\obj\Debug\netcoreapp3.0\númeromayor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\númeromayor\númeromayor\obj\Debug\netcoreapp3.0\númeromayor.AssemblyInfo.cs
+C:\Users\user\source\repos\númeromayor\númeromayor\bin\Debug\netcoreapp3.0\númeromayor.exe
+C:\Users\user\source\repos\númeromayor\númeromayor\bin\Debug\netcoreapp3.0\númeromayor.deps.json
+C:\Users\user\source\repos\númeromayor\númeromayor\bin\Debug\netcoreapp3.0\númeromayor.runtimeconfig.json
+C:\Users\user\source\repos\númeromayor\númeromayor\bin\Debug\netcoreapp3.0\númeromayor.runtimeconfig.dev.json
+C:\Users\user\source\repos\númeromayor\númeromayor\bin\Debug\netcoreapp3.0\númeromayor.dll
+C:\Users\user\source\repos\númeromayor\númeromayor\bin\Debug\netcoreapp3.0\númeromayor.pdb
+C:\Users\user\source\repos\númeromayor\númeromayor\obj\Debug\netcoreapp3.0\númeromayor.dll
+C:\Users\user\source\repos\númeromayor\númeromayor\obj\Debug\netcoreapp3.0\númeromayor.pdb

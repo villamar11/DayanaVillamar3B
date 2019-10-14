@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\sueldo\sueldo\bin\Debug\netcoreapp3.0\sueldo.exe
+C:\Users\user\source\repos\sueldo\sueldo\bin\Debug\netcoreapp3.0\sueldo.deps.json
+C:\Users\user\source\repos\sueldo\sueldo\bin\Debug\netcoreapp3.0\sueldo.runtimeconfig.json
+C:\Users\user\source\repos\sueldo\sueldo\bin\Debug\netcoreapp3.0\sueldo.runtimeconfig.dev.json
+C:\Users\user\source\repos\sueldo\sueldo\bin\Debug\netcoreapp3.0\sueldo.dll
+C:\Users\user\source\repos\sueldo\sueldo\bin\Debug\netcoreapp3.0\sueldo.pdb
+C:\Users\user\source\repos\sueldo\sueldo\obj\Debug\netcoreapp3.0\sueldo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\sueldo\sueldo\obj\Debug\netcoreapp3.0\sueldo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\sueldo\sueldo\obj\Debug\netcoreapp3.0\sueldo.AssemblyInfo.cs
+C:\Users\user\source\repos\sueldo\sueldo\obj\Debug\netcoreapp3.0\sueldo.dll
+C:\Users\user\source\repos\sueldo\sueldo\obj\Debug\netcoreapp3.0\sueldo.pdb

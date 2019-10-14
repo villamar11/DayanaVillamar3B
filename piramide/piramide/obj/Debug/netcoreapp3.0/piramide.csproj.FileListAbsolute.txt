@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\piramide\piramide\bin\Debug\netcoreapp3.0\piramide.exe
+C:\Users\user\source\repos\piramide\piramide\bin\Debug\netcoreapp3.0\piramide.deps.json
+C:\Users\user\source\repos\piramide\piramide\bin\Debug\netcoreapp3.0\piramide.runtimeconfig.json
+C:\Users\user\source\repos\piramide\piramide\bin\Debug\netcoreapp3.0\piramide.runtimeconfig.dev.json
+C:\Users\user\source\repos\piramide\piramide\bin\Debug\netcoreapp3.0\piramide.dll
+C:\Users\user\source\repos\piramide\piramide\bin\Debug\netcoreapp3.0\piramide.pdb
+C:\Users\user\source\repos\piramide\piramide\obj\Debug\netcoreapp3.0\piramide.csprojAssemblyReference.cache
+C:\Users\user\source\repos\piramide\piramide\obj\Debug\netcoreapp3.0\piramide.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\piramide\piramide\obj\Debug\netcoreapp3.0\piramide.AssemblyInfo.cs
+C:\Users\user\source\repos\piramide\piramide\obj\Debug\netcoreapp3.0\piramide.dll
+C:\Users\user\source\repos\piramide\piramide\obj\Debug\netcoreapp3.0\piramide.pdb
