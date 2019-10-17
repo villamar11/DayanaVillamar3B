@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\bin\Debug\netcoreapp3.0\piramideasteriscos.exe
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\bin\Debug\netcoreapp3.0\piramideasteriscos.deps.json
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\bin\Debug\netcoreapp3.0\piramideasteriscos.runtimeconfig.json
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\bin\Debug\netcoreapp3.0\piramideasteriscos.runtimeconfig.dev.json
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\bin\Debug\netcoreapp3.0\piramideasteriscos.dll
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\bin\Debug\netcoreapp3.0\piramideasteriscos.pdb
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\obj\Debug\netcoreapp3.0\piramideasteriscos.csprojAssemblyReference.cache
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\obj\Debug\netcoreapp3.0\piramideasteriscos.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\obj\Debug\netcoreapp3.0\piramideasteriscos.AssemblyInfo.cs
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\obj\Debug\netcoreapp3.0\piramideasteriscos.dll
+C:\Users\user\source\repos\piramideasteriscos\piramideasteriscos\obj\Debug\netcoreapp3.0\piramideasteriscos.pdb
